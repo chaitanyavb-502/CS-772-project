@@ -21,6 +21,16 @@ Our goal was to evaluate whether LLMs can enhance sample efficiency by synthetic
 
 ---
 
+### IDEA 3:
+In this project, we’re taking AutoElicit beyond logistic regression and plugging its LLM-informed priors straight
+into modern neural nets—MLPs, CNNs, and LSTMs alike. Instead of starting from scratch with
+random weights or generic pre-training, our models begin life already tuned to the key patterns and
+color/shape hints an LLM distilled from a simple prompt.
+On CIFAR-10, MNIST, or IMDB sentiment, this means faster, more reliable learning with far fewer
+examples. Training feels smoother (the loss hardly shakes), and you will not have to hunt for that
+perfect learning rate or batch size, our priors gently steer the network toward what really matters for
+the task. In short, AutoElicit gives deep models a head start, focusing them on the right features from
+day one rather than leaving them to “figure it out” purely from data.
 ##  Directory Structure
 
 ```
