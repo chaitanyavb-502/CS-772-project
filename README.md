@@ -1,5 +1,5 @@
 
-#  CS772 Project: AutoElicit-Augmented Active Learning
+#  CS772 Project: AutoElicit-Augmented Active Learning and Deep Learning
 
 ##  Group Members
 - **Member 1**: Chaitanya Bramhapurikar (230305)
