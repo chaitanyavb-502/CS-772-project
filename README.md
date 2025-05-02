@@ -58,7 +58,7 @@ This folder contains experiments that use traditional active learning techniques
 ---
 
 
-## ⚙️ How to Run
+##  How to Run
 
 Some experiments can be executed directly as Jupyter notebooks, while others are hosted on Google Colab (links included above).
 
