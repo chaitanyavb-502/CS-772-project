@@ -34,6 +34,9 @@ CS-772-Project/
 │       ├── naive_active_leaarning_without_any_modifications.ipynb      # Random sampling
 │       ├── active_learning_with_query_by_committe.ipynb                # [Colab](https://colab.research.google.com/drive/1WabVQjhW4oWjyHidX5cl9Wlx_GIgkJxY?usp=sharing)
 │       └── active_learning_with_uncertainity_sampling.ipynb            # [Colab](https://colab.research.google.com/drive/1DJt2v53FR86u2GNGA08Kj5YfqFQLBTK4?usp=sharing)
+├── Idea3/
+│   ├── IMDB_Movie_Review_Sentiment_with&without_prior.ipynb
+│   └── cs772_cifar10.ipynb
 ├── Seed-papers/
 │   ├── autoelicit-using-large-language-models-for-expert-prior-elicitation-in-predictive-modeling.pdf
 │   ├── understanding-uncertainity-sampling.pdf
@@ -57,7 +60,8 @@ This folder contains experiments that use traditional active learning techniques
 
 ---
 
-
+### `Idea 3: Deep Learning Models with AutoElicit`
+Idea 3: IMDB sentiment analysis with and without prior. [Colab Link]([https://colab.research.google.com/drive/1I-r0wtBvFitBRe1qMhAWhGyfDCd6h5g-#scrollTo=cysiApWO8rW1](https://colab.research.google.com/drive/1I-r0wtBvFitBRe1qMhAWhGyfDCd6h5g-?usp=sharing))
 ##  How to Run
 
 Some experiments can be executed directly as Jupyter notebooks, while others are hosted on Google Colab (links included above).
@@ -77,4 +81,3 @@ pip install transformers datasets scikit-learn
 
 ---
 
-Idea 3: IMDB sentiment analysis with and without prior. [Colab Link]([https://colab.research.google.com/drive/1I-r0wtBvFitBRe1qMhAWhGyfDCd6h5g-#scrollTo=cysiApWO8rW1](https://colab.research.google.com/drive/1I-r0wtBvFitBRe1qMhAWhGyfDCd6h5g-?usp=sharing))
