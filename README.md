@@ -61,7 +61,7 @@ This folder contains experiments that use traditional active learning techniques
 ---
 
 ### `Idea 3: Deep Learning Models with AutoElicit`
-Idea 3: IMDB sentiment analysis with and without prior. [Colab Link]([https://colab.research.google.com/drive/1I-r0wtBvFitBRe1qMhAWhGyfDCd6h5g-#scrollTo=cysiApWO8rW1](https://colab.research.google.com/drive/1I-r0wtBvFitBRe1qMhAWhGyfDCd6h5g-?usp=sharing))
+Idea 3: IMDB sentiment analysis with and without prior. [Colab Link]((https://colab.research.google.com/drive/1I-r0wtBvFitBRe1qMhAWhGyfDCd6h5g-?usp=sharing))
 ##  How to Run
 
 Some experiments can be executed directly as Jupyter notebooks, while others are hosted on Google Colab (links included above).
