@@ -76,3 +76,5 @@ pip install transformers datasets scikit-learn
 - **Query Strategies**: Random, Uncertainty Sampling, Query by Committee
 
 ---
+
+Idea 3: IMDB sentiment analysis with and without prior. [Colab Link](https://colab.research.google.com/drive/1I-r0wtBvFitBRe1qMhAWhGyfDCd6h5g-#scrollTo=cysiApWO8rW1)
